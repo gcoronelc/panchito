@@ -1,0 +1,4 @@
+# MENSAJE DE UN PROGRAMADOR
+
+- Si no sabes lisp, aun no eres un programador completo.
+
